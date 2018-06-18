@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/numbers"
+        android:title="Numbers" />
+
+    <item
+        android:id="@+id/navigation_alphabets"
+        android:icon="@drawable/ic_action_name"
+        android:title="ALphabets" />
+
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@drawable/toss"
+        android:title="Toss" />
+
+    <item
+        android:id="@+id/navigation_players"
+        android:icon="@drawable/ic_player"
+        android:title="Players" />
+
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@drawable/picker"
+        android:title="Colors" />
+
+
+
+
+</menu>
